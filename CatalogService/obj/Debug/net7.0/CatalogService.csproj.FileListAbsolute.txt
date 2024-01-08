@@ -1,0 +1,6 @@
+/Users/mauro.arias/git/unity/cloud-transformation-engine/backend/e2e/MyCatalogeService/CatalogService/obj/Debug/net7.0/CatalogService.csproj.AssemblyReference.cache
+/Users/mauro.arias/git/unity/cloud-transformation-engine/backend/e2e/MyCatalogeService/CatalogService/obj/Debug/net7.0/CatalogService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauro.arias/git/unity/cloud-transformation-engine/backend/e2e/MyCatalogeService/CatalogService/obj/Debug/net7.0/CatalogService.AssemblyInfoInputs.cache
+/Users/mauro.arias/git/unity/cloud-transformation-engine/backend/e2e/MyCatalogeService/CatalogService/obj/Debug/net7.0/CatalogService.AssemblyInfo.cs
+/Users/mauro.arias/git/unity/cloud-transformation-engine/backend/e2e/MyCatalogeService/CatalogService/obj/Debug/net7.0/CatalogService.csproj.CoreCompileInputs.cache
+/Users/mauro.arias/git/unity/cloud-transformation-engine/backend/e2e/MyCatalogeService/CatalogService/obj/Debug/net7.0/etcsoft.org.catalog.MvcApplicationPartsAssemblyInfo.cache
